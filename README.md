@@ -16,7 +16,6 @@ Github Repository:
 
 https://github.com/erica-210/express-note-taker
 
-![alt text](./assets/images/screentshot2.png)
 
 ## Credits
 
